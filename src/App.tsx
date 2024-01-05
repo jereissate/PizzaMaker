@@ -6,7 +6,7 @@ import "./App.css";
 // import { OpcoesMassa } from "./componentes/OpcoesMassa";
 // import { OpcoesMolho } from "./componentes/OpcoesMolho";
 // import { OpcoesTipo } from "./componentes/OpcoesTipo";
-import { PizzaScreen } from "./componentes/PizzaScreen.jsx";
+import { PizzaScreen } from "./componentes/PizzaScreen";
 
 const initState = { 
   borda: "fina", 
